@@ -1,0 +1,242 @@
+[
+  {
+    "discountPercentage": null,
+    "tags": ["popular products"],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/9b6a4fc8c65bbb4e5793fb0e1116b510d73dc9e8-630x375.png",
+    "_id": "product-1",
+    "name": "The Poplar suede sofa",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 980,
+    "category": "Simple"
+  },
+  {
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/f575d30bda78fa7680a74e131a9b25add2247210-5501x3095.jpg",
+    "_id": "product-10",
+    "name": "Tropical Vibe",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 550,
+    "discountPercentage": null,
+    "tags": [],
+    "category": "Simple"
+  },
+  {
+    "price": 300,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/b7565060672485ede215bbbbb4d6b063b1a83b49-3024x4032.jpg",
+    "_id": "product-11",
+    "name": "Sleek Living",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "Simple"
+  },
+  {
+    "_id": "product-12",
+    "name": "Serene Seat",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 350,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/19920122d503e8a40aa994d43f5f090547b48e9d-3777x5990.jpg",
+    "category": "Simple"
+  },
+  {
+    "price": 280,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/e1cf4b8cb7c99ed0f181d33a70296dfe2819cf46-4140x5520.jpg",
+    "_id": "product-13",
+    "name": "Nordic Elegance",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "Simple"
+  },
+  {
+    "price": 320,
+    "discountPercentage": null,
+    "tags": ["popular products"],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/0ede9a4310fc373fcadf2707a5d4f145cf7a8806-3264x4928.jpg",
+    "_id": "product-14",
+    "name": "TimberCraft",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "Simple"
+  },
+  {
+    "_id": "product-15",
+    "name": "Timeless Elegance",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 320,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/3571cf713dde874e2c96085f8538af6bf8af8845-6000x4000.jpg",
+    "category": "Simple"
+  },
+  {
+    "_id": "product-16",
+    "name": "Modern Serenity",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 480,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/9074eb33bece6914927f6e78eb520d7b0695f77c-3715x2362.jpg",
+    "category": "Simple"
+  },
+  {
+    "_id": "product-17",
+    "name": "Reflective Haven",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 300,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/1d164807717fdbc56142a73f3dec82fea98d12e5-3902x5853.jpg"
+  },
+  {
+    "_id": "product-18",
+    "name": "Sunny Chic",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 400,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/29e3993cfc3f28149ef0615a5cf933a8100e243b-4000x3907.jpg",
+    "category": "Simple"
+  },
+  {
+    "price": 260,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/4d749d58f7cf906766229e32feb894a85ac88756-4160x4160.jpg",
+    "_id": "product-19",
+    "name": "Bold Nest",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "Simple"
+  },
+  {
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/b3bbbd269d31ce9b57b7a867bf0b7f6fdc5b3208-721x759.png",
+    "_id": "product-2",
+    "name": "The Steel Chair",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery",
+    "price": 250,
+    "discountPercentage": null,
+    "tags": ["product detail", "hero"],
+    "category": "Fashion"
+  },
+  {
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 230,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/a309259aad5aa63a3b438ed9c42339a1c8375a3a-3264x4902.jpg",
+    "_id": "product-20",
+    "name": "Cloud Haven Chair",
+
+    "category": "Fashion"
+  },
+  {
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/d32066d0882c1632e027b053564115ed460e09eb-3393x5090.jpg",
+    "_id": "product-21",
+    "name": "Bright Space",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 180,
+    "category": "Fashion"
+  },
+  {
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/e2cc69a6c9f9d1ff1fcfbe839844240e16f5f758-305x375.png",
+    "_id": "product-22",
+    "name": "The Dandy chair",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 150,
+    "discountPercentage": null,
+    "tags": ["new ceramics", "popular products"],
+    "category": "Fashion"
+  },
+  {
+    "_id": "product-23",
+    "name": "Vase Set",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 150,
+    "discountPercentage": null,
+    "tags": ["new ceramics"],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/8795ff7bdb3d810dbe0c3eb52cd22116c9115bce-305x375.png",
+    "category": "Fashion"
+  },
+  {
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/7f6146b6625bf94030f2aa896e9b0c847e5f4919-8000x8000.jpg",
+    "_id": "product-24",
+    "name": "Marble Ease",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 419,
+    "discountPercentage": null,
+    "tags": [],
+    "category": "Fashion"
+  },
+  {
+    "tags": ["new ceramics"],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/2219cafc285ec13a2ed3f88aa36cbea852a11735-305x375.png",
+    "_id": "product-3",
+    "name": "Rustic Vase Set",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 210,
+    "discountPercentage": null,
+    "category": "Fashion"
+  },
+  {
+    "price": 250,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/b6551d6252d30e222875fbcd5d91c6edca324a1d-3518x3238.jpg",
+    "_id": "product-4",
+    "name": "Bed",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "Fashion"
+  },
+  {
+    "_id": "product-5",
+    "name": "Wood Chair",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 100,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/638c3039e0746f217acbacd325a2847939d92b08-2831x3534.jpg",
+    "category": "Fashion"
+  },
+  {
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 340,
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/326af1f82195f9f3a6a9e8c882691aa81f2d0617-4144x4144.jpg",
+    "_id": "product-6",
+    "name": "Retro Vibe",
+    "category": "Fashion"
+  },
+  {
+    "price": 200,
+    "discountPercentage": null,
+    "tags": ["new ceramics"],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/c10750f3c15f8807251977fe5e042b0a6cee55ab-305x375.png",
+    "_id": "product-7",
+    "name": "The Lucky Lamp",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "category": "Fashion"
+  },
+  {
+    "discountPercentage": null,
+    "tags": [],
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/db6d068faf67dab6145cadcd8e572944c6b9e935-3648x5472.jpg",
+    "_id": "product-8",
+    "name": "Pure Aura",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 280,
+    "category": "Fashion"
+  },
+  {
+    "imageUrl": "https://cdn.sanity.io/images/2l6m4uz5/production/2e9468c5de6d27c850d6cba74ee16bcbf200d77a-3433x3064.jpg",
+    "_id": "product-9",
+    "name": "Zen Table",
+    "description": "A timeless design, with premium materials features as one of our most popular and iconic pieces. The dandy chair is perfect for any stylish living space with beech legs and lambskin leather upholstery.",
+    "price": 250,
+    "discountPercentage": null,
+    "tags": [],
+    "category": "Fashion"
+  }
+]
